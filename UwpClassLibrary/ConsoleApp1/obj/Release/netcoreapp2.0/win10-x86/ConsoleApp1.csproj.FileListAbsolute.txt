@@ -1,0 +1,14 @@
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\hostpolicy.dll
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\hostfxr.dll
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.exe
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.deps.json
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.runtimeconfig.json
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.runtimeconfig.dev.json
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.dll
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\ConsoleApp1.pdb
+C:\Temp\UwpClassLibrary\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x86\Windows.winmd
+C:\Temp\UwpClassLibrary\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x86\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Temp\UwpClassLibrary\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x86\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Temp\UwpClassLibrary\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x86\ConsoleApp1.AssemblyInfo.cs
+C:\Temp\UwpClassLibrary\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x86\ConsoleApp1.dll
+C:\Temp\UwpClassLibrary\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x86\ConsoleApp1.pdb
